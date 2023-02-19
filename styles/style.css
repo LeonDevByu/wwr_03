@@ -39,7 +39,7 @@ nav a {
 }
 #hero-img{
     max-width: 1600px;
-    min-height: 1100px;
+    min-height: auto;
 }
 
 .button-box {
@@ -71,7 +71,7 @@ h2 {
 header {
     display: grid;
     grid-template-columns: 150px auto;
-    /*background-color: rgba(27, 28, 27, 0.7);*/
+    background-color: rgba(27, 28, 27, 0.7);
     /*border: 5px solid darkblue;*/
     /*max-height: 150px;*/
     /*width: 200px;*/
